@@ -1,7 +1,5 @@
-### Hi there 👋
-Noel Obaseki
+### Noel Obaseki || iOS Developer👋
 
-iOS Developer
 
 ### 💬 About Me
 
