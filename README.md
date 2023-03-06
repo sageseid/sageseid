@@ -1,16 +1,37 @@
 ### Hi there 👋
+Noel Obaseki
 
-<!--
-**sageseid/sageseid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer
 
-Here are some ideas to get you started:
+- 💬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an experienced iOS developer with a passion for creating beautiful and user-friendly mobile applications. Over the past 5 years, I have worked on various projects ranging from simple apps to complex enterprise solutions. My expertise lies in Swift, Objective-C, and iOS frameworks such as UIKit, Core Data, and Core Animation.
+
+
+
+
+- 🔭Skills
+
+Swift
+Objective-C
+iOS SDK
+UIKit
+SwiftUI
+Combine
+Core Data
+Core Animation
+Auto Layout
+REST APIs
+Git
+Agile methodologies
+
+
+- 👯 I’m looking to for exicting remote IOS opportunities to collaborate on 
+
+
+- 📫 How to reach me:
+
+noelorion69@gmail.com
+
+
+![Visitor Count](https://profile-counter.glitch.me/{sageseid}/count.svg)
