@@ -3,7 +3,7 @@
 
 ### 💬 About Me
 
-I am an experienced iOS developer with a passion for creating beautiful and user-friendly mobile applications. Over the past 5 years, I have worked on various projects ranging from simple apps to complex enterprise solutions. My expertise lies in Swift, Objective-C, and iOS frameworks such as UIKit, Core Data, and Core Animation.
+I am an experienced native mobile developer with a passion for creating beautiful and user-friendly mobile applications. Over the past 5 years, I have worked on various projects ranging from simple apps to complex enterprise solutions. My expertise lies in Swift, Objective-C, and iOS frameworks such as UIKit, Core Data, and Core Animation.
 
 
 
