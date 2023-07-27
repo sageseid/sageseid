@@ -24,7 +24,7 @@ Git
 Agile methodologies
 
 
-### 👯 I’m looking to for exicting remote IOS opportunities to collaborate on 
+### 👯 I’m looking to for exicting remote mobile development opportunities to collaborate on 
 
 
 ### 📫 How to reach me:
