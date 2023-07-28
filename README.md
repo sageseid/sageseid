@@ -8,20 +8,13 @@ I am an experienced native mobile developer with a passion for creating beautifu
 
 
 
-### 🔭Skills
+### 🔭Technical Skills
 
-Swift
-Objective-C
-iOS SDK
-UIKit
-SwiftUI
-Combine
-Core Data
-Core Animation
-Auto Layout
-REST APIs
-Git
-Agile methodologies
+
+Python (Algorithms) 
+Swift(IOS)
+Kotlin(Android) 
+Node.js (Backend)
 
 
 ### 👯 I’m looking to for exicting remote mobile development opportunities to collaborate on 
