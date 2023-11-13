@@ -1,4 +1,4 @@
-### Noel Obaseki || iOS & Android Developer👋
+### Noel  || iOS & Android Developer👋
 
  
 ### 💬 About Me
